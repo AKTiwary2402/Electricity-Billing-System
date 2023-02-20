@@ -11,3 +11,6 @@ MySQL
 
 IDE used: 
 Netbeans
+
+Video link for overview of project--
+https://youtu.be/DkBuBEIxf-Q
